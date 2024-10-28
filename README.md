@@ -13,8 +13,8 @@ Autobot Code Compiler is a PyQt5-based application designed to compile and run P
 
 1. **Clone the Repository** (or download the code directly):
    
-   git clone https://github.com/your-repo-url/autobot-code-compiler.git
-   cd autobot-code-compiler
+   git clone https://github.com/sandeepkasturi/autobot-Code-Editor/.git
+   cd autobot-code-editor
    
 2. **Install Dependencies**:
    Install all necessary Python packages from the `requirements.txt` file using pip:
@@ -30,7 +30,7 @@ Autobot Code Compiler is a PyQt5-based application designed to compile and run P
 5. **Run the Application**:
    Start the application by running:
    
-   python main.py
+   python app.py
    
 
 ## Usage
@@ -49,7 +49,7 @@ Autobot Code Compiler is a PyQt5-based application designed to compile and run P
 
 ## License
 
-This project is licensed under the MIT License. Feel free to customize and distribute!
+This project is licensed under the GNU License. Feel free to customize and distribute!
 
 ## Troubleshooting
 
