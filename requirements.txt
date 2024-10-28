@@ -1,0 +1,4 @@
+PyQt5
+PyQt5-sip
+qsci
+google-generativeai  # Adjust to the specific Google Generative AI library in use
