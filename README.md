@@ -61,4 +61,6 @@ This project is licensed under the GNU License. Feel free to customize and distr
 Make sure you replace `"YOUR_GOOGLE_API_KEY"` in the 'app.py' with the actual API key. 
 
 
-### Download the Executable GUI file from here: [https://drive.google.com/file/d/1YnUoEwKhf0chT73OTl2V6L_00yVlHLmU/view?usp=sharing()]
+### Download the Executable GUI file from here:
+Drive Link: [https://drive.google.com/file/d/1YnUoEwKhf0chT73OTl2V6L_00yVlHLmU/view?usp=sharing()]
+MediaFire Link: https://www.mediafire.com/file/hnm70pfbwaq7fi8/AutoBot+Code+Editor.exe/file
